@@ -1,4 +1,4 @@
-# 🚀 Space Adventure ([play online](https://aarongarciah.com/space-adventure/))
+# 🚀 Space Adventure ([play online](https://space-adventure.netlify.com/))
 
 A simple, mobile friendly game made with [Phaser](http://phaser.io/).
 
